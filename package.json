@@ -1,0 +1,13 @@
+{
+  "name": "audio-decoder",
+  "version": "1.0.0",
+  "description": "Base64エンコードされた音声データをデコードするスクリプト",
+  "main": "decode-audio.ts",
+  "scripts": {
+    "start": "ts-node decode-audio.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+} 
